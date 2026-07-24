@@ -1,80 +1,85 @@
+<!-- HEADER BANNER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,28&height=220&section=header&text=Hi%20there,%20I'm%20[Your%20Name]%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+  
+  <h3>🚀 Full-Stack Web Developer & Digital Strategist</h3>
+  <p><i>Building high-performing web applications & driving measurable digital growth.</i></p>
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb07c&height=180&section=header&text=Hi%20there,%20I'm%20Aiman%20Sarwar%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-  <h3>✨ Full-Stack Web Developer & Digital Marketer ✨</h3>
-  <p><i>MERN & MEAN Stack Specialist | WordPress Expert | SEO & Social Media Specialist</i></p>
-
-  <!-- Badges with Soft Peach & Pastel Themes -->
-  <p>
-    <img src="https://img.shields.io/badge/Status-Available_for_Hire-ffb07c?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Focus-MERN_%26_MEAN_Stack-fcd5ce?style=for-the-badge&logoColor=333"/>
-    <img src="https://img.shields.io/badge/SEO-Specialist-f8edeb?style=for-the-badge&logoColor=333"/>
-  </p>
-
+  <!-- QUICK SOCIAL BADGES -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://YOUR-PORTFOLIO-LINK.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
-<br/>
-
-> 🌸 **Driving Business Growth Through Code & Strategy.** I bridge the gap between robust software engineering and data-driven marketing—building high-converting web applications, optimizing search visibility, and scaling digital presence.
+<br />
 
 ---
 
-### 💻 What I Do & How I Help Clients
+### 🌟 About Me
 
-- 🌐 **Full-Stack Web Development:** Interactive frontend applications and scalable backends using **React**, **Angular**, **Node.js**, **Express**, and **MongoDB** (MERN & MEAN stacks).
-- 🎨 **WordPress & CMS Architecture:** Custom theme development, WooCommerce online stores, landing pages, and speed optimization.
-- 📈 **SEO & Digital Marketing Strategy:** Technical SEO audits, keyword optimization, content strategy, and social media campaigns engineered to drive real business leads.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### 🔸 Full-Stack Development
-![React](https://img.shields.io/badge/React-FFB07C?style=flat-square&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-FCD5CE?style=flat-square&logo=angular&logoColor=333)
-![Node.js](https://img.shields.io/badge/Node.js-F8EDEB?style=flat-square&logo=nodedotjs&logoColor=333)
-![Express](https://img.shields.io/badge/Express.js-FFDAB9?style=flat-square&logo=express&logoColor=333)
-![MongoDB](https://img.shields.io/badge/MongoDB-FCD5CE?style=flat-square&logo=mongodb&logoColor=333)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFB07C?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-F8EDEB?style=flat-square&logo=typescript&logoColor=333)
-
-#### 🔸 CMS & Marketing Tools
-![WordPress](https://img.shields.io/badge/WordPress-FFB07C?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-FCD5CE?style=flat-square&logo=woocommerce&logoColor=333)
-![Google Analytics](https://img.shields.io/badge/Analytics-FFDAB9?style=flat-square&logo=googleanalytics&logoColor=333)
-![SEO](https://img.shields.io/badge/Technical_SEO-F8EDEB?style=flat-square&logo=google&logoColor=333)
+- 💻 **Core Expertise:** Building scalable MERN/MEAN stack web applications and custom WordPress solutions.
+- ⚡ **Business Focus:** Bridging software engineering with technical SEO and performance optimization.
+- 🎯 **Current Goal:** Helping startups and businesses scale their digital presence.
+- 📬 **Let's Talk:** Open for freelance projects, full-time opportunities, and tech collaborations.
 
 ---
 
-### 📌 Featured Projects & Case Studies
+### 🛠️ Tech Stack & Digital Toolkit
 
-| Project | Category | Key Technologies / Focus | Live Demo / Code |
+#### 🔹 Development & Architecture
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+#### 🔹 CMS & Growth Marketing
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![SEO Strategy](https://img.shields.io/badge/SEO-Technical%20%26%20On--Page-00C7B7?style=flat-square)
+
+---
+
+### 📌 Featured Client Projects
+
+| Project | Type | Key Tech / Focus | Action |
 | :--- | :--- | :--- | :--- |
-| **Full-Stack MERN Application** | Web App | React, Node.js, Express, MongoDB | [Live Demo](#) / [Code](#) |
-| **Full-Stack MEAN Dashboard** | Web App | Angular, Node.js, Express, MongoDB | [Live Demo](#) / [Code](#) |
-| **WordPress & WooCommerce Store** | E-Commerce | WordPress, Custom Theme, SEO | [Live Site](#) |
-| **SEO & Traffic Growth Strategy** | Marketing | Technical SEO Audit, Content Strategy | [View Case Study](#) |
+| **Enterprise Web App** | Full-Stack | React, Node.js, Express, MongoDB | [Live Demo](#) / [Code](#) |
+| **Client Analytics Dashboard** | Dashboard | Angular, Express, REST APIs | [Live Demo](#) / [Code](#) |
+| **E-Commerce Platform** | CMS Store | WordPress, WooCommerce, Custom CSS | [Visit Site](#) |
+| **Technical SEO Audit** | Marketing | Performance Tuning, Speed Optimization | [Read Case Study](#) |
 
 ---
 
-### 📊 Marketing & SEO Services
-
-* 🔍 **Technical & On-Page SEO:** Audit sites, fix crawling errors, and optimize metadata for top rankings.
-* 📣 **Growth Strategy & Content:** Targeted social media content, funnel creation, and audience acquisition.
-* ⚡ **Conversion Optimization:** Speed up load times, enhance UI/UX, and maximize conversion rates.
-
----
-
-### 🍑 Let's Connect & Work Together!
-
-- 💼 **LinkedIn:** [Aiman Sarwar](https://www.linkedin.com/in/aiman-sarwar-12a036345)
-- 📝 **Articles & Blog:** [Medium Blog](https://medium.com/@itx_me)
-- 🌐 **Portfolio:** [JournalPortfolio](https://aimansarwar.journoportfolio.com/#/)
-- 📧 **Email:** [aimansarwar009@gmail.com](mailto:aimansarwar009@gmail.com)
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb07c&height=100&section=footer" width="100%"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br />
+
+---
+
+<!-- WEBSITE-STYLE FOOTER -->
+<div align="center">
+  <h3>🤝 Let's Build Something Great Together</h3>
+  <p>Available for freelance projects, technical consulting, and contract roles.</p>
+
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Work%20With%20Me-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,28&height=120&section=footer" width="100%" />
 </div>
