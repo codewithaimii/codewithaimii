@@ -1,101 +1,169 @@
-<!-- TOP WAVING BANNER (BLUE & BLACK GRADIENT) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0052CC&height=220&section=header&text=Aiman%20Sarwar&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
-  
-  <h2>⚡ Full-Stack Web Developer & Digital Strategist</h2>
-  <p><b>MERN & MEAN Stack Specialist | WordPress Expert | Tech SEO</b></p>
-  <p><i>Building High-Performance Web Applications & Scalable Digital Solutions</i></p>
 
-  <br />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,25&text=Aiman%20Sarwar&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Digital%20Strategist%20%7C%20Technical%20SEO&descAlignY=58&descSize=18"/>
 
-  <!-- BADGES WITH ICON + TEXT (UNIFIED BLUE & BLACK) -->
-  <a href="https://linkedin.com/in/AimanSarwar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:aimansarwar009@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://medium.com">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+# Full-Stack Web Developer & Digital Marketing Specialist
+
+### Building scalable web applications, high-converting websites, and SEO-driven digital experiences.
+
+<br>
+
+<a href="https://linkedin.com/in/AimanSarwar">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aimansarwar009@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://medium.com">
+<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
 </div>
 
-<br />
+---
+
+# About Me
+
+I'm **Aiman Sarwar**, a Full-Stack Developer and Digital Marketing Specialist focused on creating fast, scalable, and business-oriented digital products.
+
+I combine software engineering with SEO, WordPress, and digital marketing to help startups and businesses build websites that not only look great—but generate results.
+
+### What I Offer
+
+- Full-Stack MERN & MEAN Development
+- Responsive Web Applications
+- WordPress Development
+- WooCommerce Solutions
+- Technical SEO
+- Website Speed Optimization
+- API Integration
+- Digital Marketing Strategy
+- Email Marketing
+- Performance Analytics
 
 ---
 
-### 🔹 What I Do & How I Help Clients
-
-- 🌐 **Full-Stack Engineering:** Custom web applications built with **React**, **Angular**, **Node.js**, **Express**, and **MongoDB**.
-- 💻 **WordPress & CMS:** Scalable custom themes, WooCommerce stores, and performance/speed tuning.
-- 📈 **SEO & Growth Strategy:** Technical SEO audits, code-level optimizations, and data-driven marketing funnels.
-
----
-
-### 🛠️ Tech Stack & Digital Toolkit
-
-#### ⚡ Engineering & Frameworks
-![React](https://img.shields.io/badge/React-0052CC?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-0A66C2?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-181717?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0052CC?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A66C2?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### ⚡ CMS, SEO & Analytics
-![WordPress](https://img.shields.io/badge/WordPress-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-0052CC?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Analytics-000000?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Technical SEO](https://img.shields.io/badge/Technical_SEO-0A66C2?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-### 📌 Featured Client Projects
-
-| Project | Category | Key Tech / Focus | Quick Link |
-| :--- | :--- | :--- | :--- |
-| **Full-Stack MERN Application** | Web App | React, Node.js, Express, MongoDB | [Live Demo](#) / [Code](#) |
-| **Full-Stack MEAN Dashboard** | Web App | Angular, Node.js, Express, MongoDB | [Live Demo](#) / [Code](#) |
-| **WordPress & WooCommerce Store** | E-Commerce | WordPress, Custom Theme, Speed & SEO | [Visit Site](#) |
-| **SEO & Traffic Growth Strategy** | Marketing | Technical SEO Audit, Content Strategy | [Case Study](#) |
-
----
-
-### 📊 GitHub Activity & Stats
+# Tech Stack
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewithaimii&show_icons=true&theme=dark&hide_border=true&title_color=0052cc&icon_color=0052cc&text_color=ffffff&bg_color=000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithaimii&layout=compact&theme=dark&hide_border=true&title_color=0052cc&text_color=ffffff&bg_color=000000" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,angular,js,ts,html,css,bootstrap,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
+
+### CMS & Marketing
+
+<img src="https://skillicons.dev/icons?i=wordpress"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/WooCommerce-0052CC?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Technical_SEO-0A66C2?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Analytics-111111?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+
 </div>
 
-<br />
+---
+
+# Services
+
+| Service | Technologies |
+|----------|--------------|
+| Full-Stack Development | React • Angular • Node.js • Express • MongoDB |
+| WordPress Development | Custom Themes • WooCommerce • Elementor |
+| SEO Optimization | Technical SEO • On-Page SEO • Website Audits |
+| Digital Marketing | Email Marketing • Analytics • Growth Strategy |
+| Performance Optimization | Core Web Vitals • Speed Optimization |
 
 ---
 
-<!-- UNIFIED CONTACT SECTION -->
+# Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| MERN Business Platform | Complete full-stack business management system |
+| MEAN Dashboard | Enterprise analytics dashboard |
+| WooCommerce Store | Optimized eCommerce solution |
+| SEO Growth Campaign | Technical SEO and organic traffic strategy |
+
+---
+
+# GitHub Analytics
+
 <div align="center">
-  <h2>🤝 Let's Build Something Great Together</h2>
-  <p>Available for freelance projects, technical consulting, and contract roles.</p>
-  <br />
 
-  <a href="https://linkedin.com/in/AimanSarwar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:aimansarwar009@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-0052CC?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithaimii&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff"/>
 
-  <br /><br />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithaimii&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=ffffff"/>
 
-  <!-- BOTTOM WAVING BANNER (BLUE & BLACK GRADIENT) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0052CC&height=120&section=footer" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithaimii&theme=github-compact&hide_border=true&bg_color=00000000&color=3B82F6&line=3B82F6&point=ffffff"/>
+
+</div>
+
+---
+
+# Why Work With Me?
+
+✔ Clean & Maintainable Code
+
+✔ SEO-Optimized Development
+
+✔ Responsive UI/UX
+
+✔ Fast Performance
+
+✔ Scalable Architecture
+
+✔ Business-Focused Solutions
+
+✔ Clear Communication
+
+✔ Reliable Project Delivery
+
+---
+
+<div align="center">
+
+# Let's Build Something Amazing
+
+Available for
+
+**Freelance • Remote Jobs • Long-Term Projects • Technical Consulting**
+
+<br>
+
+<a href="mailto:aimansarwar009@gmail.com">
+<img src="https://img.shields.io/badge/Hire_Me-0052CC?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/AimanSarwar">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/View_Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,24,25"/>
+
 </div>
