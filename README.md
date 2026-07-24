@@ -1,6 +1,6 @@
 <!-- TOP WAVING GRADIENT HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,24&height=220&section=header&text=Hi%20there,%20I'm%20Aiman%20Sarwar%20✨&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,24&height=220&section=header&text=Hi%20there,%20I'm%20Aiman%20Sarwar&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
   
   <h2>🚀 Full-Stack Web Developer & Digital Strategist</h2>
   <p><b>MERN & MEAN Stack Specialist | WordPress Expert | Tech SEO & Growth Strategist</b></p>
@@ -8,14 +8,14 @@
 
   <br />
 
-  <!-- VIBRANT CONTACT BADGES -->
-  <a href="https://linkedin.com/in/AimanSarwar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- SOCIAL BADGES WITH ORIGINAL LOGOS -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:aimansarwar009@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://medium.com">
@@ -65,28 +65,31 @@
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📬 Get In Touch & Let's Work Together!
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codewithaimii&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithaimii&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+> 💬 **Have a project in mind, need a custom web solution, or want to improve your search rankings?**  
+> *I am available for freelance projects, technical consulting, and contract opportunities.*
 
 <br />
 
----
-
-<!-- WEBSITE FOOTER CALL TO ACTION -->
 <div align="center">
-  <h2>🤝 Let's Work Together!</h2>
-  <p>Available for freelance web development projects, technical SEO audits, and custom software solutions.</p>
 
-  <a href="mailto:aimansarwar009@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me%20 Now-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire Me" />
-  </a>
+| Channel | Contact Info / Direct Link |
+| :--- | :--- |
+| 💼 **LinkedIn** | [Connect on LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME) |
+| 📧 **Direct Email** | [your.email@example.com](mailto:your.email@example.com) |
+| 🌐 **Live Portfolio** | [Visit Portfolio Website](https://your-portfolio-link.com) |
+| 📑 **Medium Blog** | [Read Tech Articles](https://medium.com) |
 
-  <br /><br />
+<br />
 
-  <!-- BOTTOM GRADIENT SVG WAVE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,24&height=120&section=footer" width="100%" />
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Hire%20Me%20Now-4CAF50?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire Me" />
+</a>
+
+<br /><br />
+
+<!-- BOTTOM GRADIENT SVG WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,24&height=120&section=footer" width="100%" />
+
 </div>
