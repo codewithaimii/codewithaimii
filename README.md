@@ -97,3 +97,28 @@ const aiman = {
     "Long-Term Collaborations"
   ]
 };
+const aiman = {
+  role: "Full-Stack Web Developer & Digital Strategist",
+
+  specialization: [
+    "MERN Stack Development",
+    "MEAN Stack Development",
+    "WordPress & WooCommerce",
+    "Technical SEO",
+    "Website Performance Optimization"
+  ],
+
+  approach: [
+    "Clean and maintainable code",
+    "Responsive user experiences",
+    "Scalable architecture",
+    "Business-focused solutions"
+  ],
+
+  availability: [
+    "Freelance Projects",
+    "Technical Consulting",
+    "Contract Opportunities",
+    "Long-Term Collaborations"
+  ]
+};
