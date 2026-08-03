@@ -1,28 +1,15 @@
-<div align="center">
+# Hello! I'm Aiman Sarwar 👋
 
-# Hi there, I'm Aiman Sarwar 👋
+### BS Computer Science | Full-Stack Developer & Digital Growth Specialist | MERN & MEAN | WordPress & Technical SEO
 
-### 🚀 Full-Stack Developer (React, MERN & MEAN) + Backend | Custom WordPress & Technical SEO Specialist | Digital Marketer
-
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiman-sarwar-12a036345)
-[![Portfolio](https://img.shields.io/badge/-255E63?style=for-the-badge&logo=safari&logoColor=white)](https://aimansarwar.journoportfolio.com/#/)
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-</div>
-
-## 🌟 About Me
-
-I bridge the gap between high-performance software engineering and measurable digital growth. As a **Full-Stack Developer** and **Digital Growth Specialist**, I construct fast, scalable web applications (MERN/MEAN), build custom WordPress environments, and execute data-driven Technical SEO strategies that drive traffic, conversions, and business scale.
-
-* 🔭 **Currently Focusing On:** Building full-stack web applications with React.js, Node.js, and MongoDB.
-* ⚡ **Core Advantage:** I build code that isn't just functional, but optimized for speed, search engines (SEO), and user conversion.
-* 💼 **Open To:** Freelance contracts, full-stack development roles, custom WordPress engineering, and Technical SEO audits.
+Passionate about building fast, scalable web applications and data-driven growth strategies  
+Currently focusing on: Full-stack applications with React.js, Node.js, and MongoDB  
+Core advantage: Writing code optimized for speed, search engines (SEO), and user conversion  
+Open to: Freelance contracts, full-stack roles, custom WordPress engineering, & Technical SEO audits  
 
 ---
 
-## 🛠️ Technical Stack & Expertise
+## 🛠️ Skills & Expertise
 
 ### 💻 Web Development & Backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -30,6 +17,7 @@ I bridge the gap between high-performance software engineering and measurable di
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0055DA?style=flat-square&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -47,20 +35,35 @@ I bridge the gap between high-performance software engineering and measurable di
 ### 📈 CMS, SEO & Digital Marketing
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Technical SEO](https://img.shields.io/badge/Technical_SEO-00E676?style=flat-square&logo=google&logoColor=white)
+![Google Analytics 4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🏠 **[3D Room Renovation & Cost Estimation](https://github.com/codewithaimii/1.-3D-Room-Renovation-and-cost-Estimation-)** | Hybrid web-3D application for real-time interior design visualization and automated budget calculation. | `React.js`, `Unity`, `JavaScript` |
-| 🏦 **[Bank Management System](https://github.com/codewithaimii/Bank-management-system)** | Object-oriented application utilizing Singleton and Builder design patterns for secure record handling. | `C++`, `OOP`, `Data Structures` |
-| 🅿️ **[Parking Management System](https://github.com/codewithaimii/Parking-management-system)** | Real-time vehicle management engine built with dynamic linked lists for tracking entry, exit, and fees. | `C`, `Linked Lists`, `Pointers` |
-| 🎓 **[Student Attendance System](https://github.com/codewithaimii/student-attendance-management-system)** | System engineered to streamline, record, and analyze student attendance data efficiently. | `C++` / `Software Design` |
-| 🌐 **[Personal Portfolio Website](https://github.com/codewithaimii/Personal-portfolio-website)** | Responsive personal portfolio showcasing professional skills, certifications, and project work. | `HTML5`, `CSS3`, `JavaScript` |
+**3D Room Renovation & Cost Estimation**  
+Hybrid web-3D application for real-time interior design visualization and automated budget calculation.  
+[GitHub Link](https://github.com/codewithaimii/1.-3D-Room-Renovation-and-cost-Estimation-)
+
+**Bank Management System**  
+Object-oriented C++ application utilizing Singleton and Builder design patterns for secure record handling.  
+[GitHub Link](https://github.com/codewithaimii/Bank-management-system)
+
+**Parking Management System**  
+Real-time vehicle management engine built with dynamic linked lists for tracking entry, exit, and fees.  
+[GitHub Link](https://github.com/codewithaimii/Parking-management-system)
+
+**Student Attendance System**  
+System engineered to streamline, record, and analyze student attendance data efficiently.  
+[GitHub Link](https://github.com/codewithaimii/student-attendance-management-system)
+
+**Personal Portfolio Website**  
+Responsive personal portfolio showcasing professional skills, certifications, and project work.  
+[GitHub Link](https://github.com/codewithaimii/Personal-portfolio-website)
+
+*Check out my [Repositories](https://github.com/codewithaimii?tab=repositories) for more projects!*
 
 ---
 
@@ -74,7 +77,7 @@ I bridge the gap between high-performance software engineering and measurable di
 
 <div align="center">
 
-📫 **Let's Connect & Collaborate!**
+### 📫 Let's Connect & Collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aiman-sarwar-12a036345)
 [![Portfolio](https://img.shields.io/badge/-255E63?style=for-the-badge&logo=safari&logoColor=white)](https://aimansarwar.journoportfolio.com/#/)
