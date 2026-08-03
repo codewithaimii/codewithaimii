@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Ultra-Clear & Enlarged Professional Name Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=48&pause=1000&color=2D3748&center=true&vCenter=true&width=850&height=80&lines=Aiman+Sarwar" alt="Aiman Sarwar" />
+<!-- Large Static Name Header (No Animation, High Clarity) -->
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=56&pause=1000&color=2D3748&center=true&vCenter=true&width=1000&height=90&lines=Aiman+Sarwar&repeat=false" alt="Aiman Sarwar" />
 
-<!-- Professional Title & Subtitle Transition (Deep Royal Blue) -->
+<!-- Bold Black Title & Subtitle Transition -->
 <a href="https://github.com/codewithaimii">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=0066CC&center=true&vCenter=true&width=950&height=60&lines=Full-Stack+Web+Developer+%26+Digital+Marketing+Specialist;Bridging+scalable+code+with+data-driven+marketing+strategy." alt="Title Transition" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=20&pause=1000&color=000000&center=true&vCenter=true&width=950&height=60&lines=Full-Stack+Web+Developer+%26+Digital+Marketing+Specialist;Bridging+scalable+code+with+data-driven+marketing+strategy." alt="Title Transition" />
 </a>
 
 <br/>
