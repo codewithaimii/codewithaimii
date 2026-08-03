@@ -2,16 +2,18 @@
 
 # 👋 Hi there, I'm Aiman Sarwar
 
-🚀 **Full-Stack Web Developer & Digital Marketing Specialist**  
+### 🚀 **Full-Stack Web Developer & Digital Marketing Specialist**  
 *Bridging the gap between scalable code and data-driven marketing strategy.*
 
----
+<br/>
 
-<!-- Top Skill Badges Header -->
+<!-- Premium Header Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack"/>
-  <img src="https://img.shields.io/badge/WordPress-Specialist-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
-  <img src="https://img.shields.io/badge/Technical-SEO%20%26%20CRO-007ACC?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="SEO"/>
+  <a href="https://github.com/codewithaimii">
+    <img src="https://img.shields.io/badge/Full--Stack-Developer-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack Developer" />
+    <img src="https://img.shields.io/badge/WordPress-Specialist-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Specialist" />
+    <img src="https://img.shields.io/badge/Technical-SEO%20%26%20CRO-007ACC?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Technical SEO & CRO" />
+  </a>
 </p>
 
 </div>
@@ -20,18 +22,14 @@
 
 ## ⚡ About Me
 
-<table border="0">
-  <tr>
-    <td width="100%">
-      <ul>
-        <li>💼 <b>Full-Stack Web Developer</b> specializing in React, MERN, MEAN, and custom WordPress development.</li>
-        <li>📈 <b>Digital Marketing & Technical SEO Specialist</b> focused on driving organic growth, CRO, and performance optimization.</li>
-        <li>🚀 <b>Currently working on:</b> Scalable web applications and data-driven marketing solutions.</li>
-        <li>🤝 <b>Open to:</b> Freelance projects, full-stack development roles, and growth strategy collaborations.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="left">
+
+- 💼 **Full-Stack Web Developer** specializing in React, MERN, MEAN, and custom WordPress development.
+- 📈 **Digital Marketing & Technical SEO Specialist** focused on driving organic growth, CRO, and performance optimization.
+- 🚀 **Currently working on:** Scalable web applications and data-driven marketing solutions.
+- 🤝 **Open to:** Freelance projects, full-stack development roles, and growth strategy collaborations.
+
+</div>
 
 ---
 
@@ -68,13 +66,15 @@ A responsive portfolio showcasing full-stack projects, certifications, and techn
 
 ## 📬 Get in Touch
 
-- ✉️ **Email:** [Contact via Email](mailto:aimansarwar@example.com)
-- 💼 **LinkedIn:** [Aiman Sarwar](https://linkedin.com/in/aiman-sarwar-12a036345)
-- 🌐 **Portfolio:** [JournoPortfolio](https://aimansarwar.journoportfolio.com/#/)
-- 🐙 **GitHub:** [@codewithaimii](https://github.com/codewithaimii)
+- **Email:** [Contact via Email](mailto:your-email@example.com)
+- **LinkedIn:** [Aiman Sarwar](https://linkedin.com/in/aiman-sarwar-12a036345)
+- **Portfolio:** [JournoPortfolio](https://aimansarwar.journoportfolio.com/#/)
+- **GitHub:** [@codewithaimii](https://github.com/codewithaimii)
 
 ---
 
-<p align="center">
-  <i>Always open to learning, collaborating, and building scalable web applications with high-impact digital strategies.</i>
-</p>
+<div align="center">
+
+*Always open to learning, collaborating, and building scalable web applications with high-impact digital strategies.*
+
+</div>
