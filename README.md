@@ -1,25 +1,57 @@
-<div align="center">
-
 # 👋 Hi there, I'm Aiman Sarwar
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+%26+MEAN+Stack+Architect;WordPress+%26+CMS+Expert;SEO+%26+Digital+Growth+Strategist)](https://git.io/typing-svg)
 
 **Full-Stack Web Developer & Digital Marketing Specialist**  
 *Bridging the gap between scalable code and data-driven marketing strategy.*
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithaimii)
+## ⚡ About Me
 
-</div>
+- 💼 **Full-Stack Web Developer** specializing in React, MERN, MEAN, and custom WordPress development.
+- 📈 **Digital Marketing & Technical SEO Specialist** focused on driving organic growth, CRO, and performance optimization.
+- 🚀 **Currently working on:** Scalable web applications and data-driven marketing solutions.
+- 🤝 **Open to:** Freelance projects, full-stack development roles, and growth strategy collaborations.
 
 ---
 
-## ⚡ About Me
+## 🛠️ Skills & Expertise
 
-```text
-> 💼  Driven Full-Stack Engineer with expertise across React, MERN, MEAN, and WordPress ecosystem.
-> 📈  Dual-specialized in Digital Growth: Technical SEO, Conversion Rate Optimization & Content Strategy.
-> 🚀  Obsessed with building lightning-fast web applications that rank high and convert visitors.
+* **Full-Stack Development:** React.js, Node.js, Express.js, MongoDB, Angular, REST APIs
+* **CMS & E-Commerce:** Custom WordPress Development, Theme & Plugin Customization, PHP
+* **Frontend Web Technologies:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, Tailwind CSS
+* **Digital Marketing & SEO:** Technical SEO, On-Page & Off-Page SEO, Keyword Research, Web Analytics
+* **Conversion & Strategy:** Conversion Rate Optimization (CRO), Content Strategy, Performance Optimization
+* **Platforms & Tools:** Git, GitHub, Google Search Console, Google Analytics, Figma
+
+---
+
+## 🌟 Featured Projects
+
+### 🏡 3D Room Renovation and Cost Estimation
+A hybrid web-3D application that allows users to design, customize, and visualize room interiors in real time using Unity and React.js, complete with automated real-time cost estimation.  
+👉 [View Repository](https://github.com/codewithaimii/1.-3D-Room-Renovation-and-cost-Estimation-)
+
+### 🏥 Student Attendance Management System
+A streamlined system designed for educational institutions to efficiently record, manage, and analyze student attendance data with intuitive reporting tools.  
+👉 [View Repository](https://github.com/codewithaimii/student-attendance-management-system)
+
+### 🏦 Bank Management System
+An Object-Oriented C++ banking application utilizing Design Patterns (Singleton, Builder) and C++ Templates for account management, transactions, and secure data handling.  
+👉 [View Repository](https://github.com/codewithaimii/Bank-management-system)
+
+### 💼 Personal Portfolio Website
+A responsive portfolio showcasing full-stack projects, certifications, and technical expertise. Built with optimized HTML, CSS, and JavaScript for maximum speed and performance.  
+👉 [View Repository](https://github.com/codewithaimii/Personal-portfolio-website)
+
+---
+
+## 📬 Get in Touch
+
+- **Email:** [Contact via Email](mailto:your-email@example.com)
+- **LinkedIn:** [Aiman Sarwar](https://linkedin.com/in/aiman-sarwar-12a036345)
+- **Portfolio:** [JournoPortfolio](https://aimansarwar.journoportfolio.com/#/)
+- **GitHub:** [@codewithaimii](https://github.com/codewithaimii)
+
+---
+
+*Always open to learning, collaborating, and building scalable web applications with high-impact digital strategies.*
