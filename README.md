@@ -1,17 +1,16 @@
 <div align="center">
 
+<!-- Top Luxury Header Banner -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Aiman%20Sarwar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+
 # 👋 Hi there, I'm Aiman Sarwar
 
-### **Full-Stack Web Developer & Digital Marketing Specialist**  
-*Bridging the gap between scalable code and data-driven marketing strategy.*
-
-<br/>
-
-<!-- Premium Dynamic Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Dev-React%20%7C%20Node%20%7C%20MERN-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/CMS%20Expert-WordPress%20%7C%20PHP-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Growth-Technical%20SEO%20%26%20CRO-007ACC?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="SEO" />
+  <a href="https://github.com/codewithaimii">
+    <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full-Stack Developer"/>
+    <img src="https://img.shields.io/badge/EXPERT-WORDPRESS%20%26%20PHP-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Expert"/>
+    <img src="https://img.shields.io/badge/STRATEGY-SEO%20%26%20CRO-007ACC?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="SEO & CRO"/>
+  </a>
 </p>
 
 ---
@@ -40,33 +39,21 @@
 
 ## 🌟 Featured Projects
 
-<br/>
-
 ### 🏡 3D Room Renovation and Cost Estimation
-> A hybrid web-3D application that allows users to design, customize, and visualize room interiors in real time using Unity and React.js, complete with automated real-time cost estimation.  
-> 
-> 👉 **[View Repository](https://github.com/codewithaimii/1.-3D-Room-Renovation-and-cost-Estimation-)**
-
-<br/>
+A hybrid web-3D application that allows users to design, customize, and visualize room interiors in real time using Unity and React.js, complete with automated real-time cost estimation.  
+👉 [View Repository](https://github.com/codewithaimii/1.-3D-Room-Renovation-and-cost-Estimation-)
 
 ### 🏥 Student Attendance Management System
-> A streamlined system designed for educational institutions to efficiently record, manage, and analyze student attendance data with intuitive reporting tools.  
-> 
-> 👉 **[View Repository](https://github.com/codewithaimii/student-attendance-management-system)**
-
-<br/>
+A streamlined system designed for educational institutions to efficiently record, manage, and analyze student attendance data with intuitive reporting tools.  
+👉 [View Repository](https://github.com/codewithaimii/student-attendance-management-system)
 
 ### 🏦 Bank Management System
-> An Object-Oriented C++ banking application utilizing Design Patterns (Singleton, Builder) and C++ Templates for account management, transactions, and secure data handling.  
-> 
-> 👉 **[View Repository](https://github.com/codewithaimii/Bank-management-system)**
-
-<br/>
+An Object-Oriented C++ banking application utilizing Design Patterns (Singleton, Builder) and C++ Templates for account management, transactions, and secure data handling.  
+👉 [View Repository](https://github.com/codewithaimii/Bank-management-system)
 
 ### 💼 Personal Portfolio Website
-> A responsive portfolio showcasing full-stack projects, certifications, and technical expertise. Built with optimized HTML, CSS, and JavaScript for maximum speed and performance.  
-> 
-> 👉 **[View Repository](https://github.com/codewithaimii/Personal-portfolio-website)**
+A responsive portfolio showcasing full-stack projects, certifications, and technical expertise. Built with optimized HTML, CSS, and JavaScript for maximum speed and performance.  
+👉 [View Repository](https://github.com/codewithaimii/Personal-portfolio-website)
 
 ---
 
@@ -81,6 +68,6 @@
 
 <div align="center">
 
-*Always open to learning, collaborating, and building scalable web applications with high-impact digital strategies.*
+<img src="https://capsule-render.vercel.app/render?type=rect&color=0:1a1a1a,100:000000&height=4" width="100%" />
 
 </div>
