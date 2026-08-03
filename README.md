@@ -1,15 +1,21 @@
 <div align="center">
 
-<!-- Top Luxury Header Banner -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Aiman%20Sarwar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+<!-- Luxury Dynamic Waving Banner -->
+<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0d0d0d,50:1a1a1a,100:000000&height=220&section=header&text=Aiman%20Sarwar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Aiman Sarwar Header" />
 
-# 👋 Hi there, I'm Aiman Sarwar
+<!-- Animated Typing Title & Subtitle Transition -->
+<a href="https://github.com/codewithaimii">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Web+Developer+%26+Digital+Marketing+Specialist;Bridging+scalable+code+with+data-driven+marketing+strategy." alt="Title Transition" />
+</a>
 
+<br/>
+
+<!-- Premium Luxury Badges -->
 <p align="center">
   <a href="https://github.com/codewithaimii">
-    <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full-Stack Developer"/>
-    <img src="https://img.shields.io/badge/EXPERT-WORDPRESS%20%26%20PHP-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Expert"/>
-    <img src="https://img.shields.io/badge/STRATEGY-SEO%20%26%20CRO-007ACC?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="SEO & CRO"/>
+    <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=111111" alt="Full-Stack Developer"/>
+    <img src="https://img.shields.io/badge/EXPERT-WORDPRESS%20%26%20PHP-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=111111" alt="WordPress Expert"/>
+    <img src="https://img.shields.io/badge/STRATEGY-SEO%20%26%20CRO-007ACC?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=111111" alt="SEO & CRO"/>
   </a>
 </p>
 
@@ -68,6 +74,6 @@ A responsive portfolio showcasing full-stack projects, certifications, and techn
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=0:1a1a1a,100:000000&height=4" width="100%" />
+*Always open to learning, collaborating, and building scalable web applications with high-impact digital strategies.*
 
 </div>
