@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Ultra-Clear Gold Luxury Name Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=40&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&height=70&lines=Aiman+Sarwar" alt="Aiman Sarwar" />
+<!-- Ultra-Clear Professional Name Header (Slate Grey) -->
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=38&pause=1000&color=2D3748&center=true&vCenter=true&width=600&height=70&lines=Aiman+Sarwar" alt="Aiman Sarwar" />
 
-<!-- Title & Subtitle with Luxury Gold Styling -->
+<!-- Professional Title & Subtitle Transition (Emerald Teal / Cyan Accent) -->
 <a href="https://github.com/codewithaimii">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1000&color=F4C430&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Web+Developer+%26+Digital+Marketing+Specialist;Bridging+scalable+code+with+data-driven+marketing+strategy." alt="Title Transition" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=0D9488&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Web+Developer+%26+Digital+Marketing+Specialist;Bridging+scalable+code+with+data-driven+marketing+strategy." alt="Title Transition" />
 </a>
 
 <br/>
 
-<!-- Premium Luxury Badges -->
+<!-- Premium Professional Badges -->
 <p align="center">
   <a href="https://github.com/codewithaimii">
     <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=111111" alt="Full-Stack Developer"/>
