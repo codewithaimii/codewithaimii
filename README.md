@@ -2,34 +2,28 @@
 
 # 👋 Hi there, I'm Aiman Sarwar
 
-### 🚀 **Full-Stack Web Developer & Digital Marketing Specialist**  
+### **Full-Stack Web Developer & Digital Marketing Specialist**  
 *Bridging the gap between scalable code and data-driven marketing strategy.*
 
 <br/>
 
-<!-- Premium Header Badges -->
+<!-- Premium Dynamic Badges -->
 <p align="center">
-  <a href="https://github.com/codewithaimii">
-    <img src="https://img.shields.io/badge/Full--Stack-Developer-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack Developer" />
-    <img src="https://img.shields.io/badge/WordPress-Specialist-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Specialist" />
-    <img src="https://img.shields.io/badge/Technical-SEO%20%26%20CRO-007ACC?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Technical SEO & CRO" />
-  </a>
+  <img src="https://img.shields.io/badge/Full--Stack%20Dev-React%20%7C%20Node%20%7C%20MERN-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/CMS%20Expert-WordPress%20%7C%20PHP-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Growth-Technical%20SEO%20%26%20CRO-007ACC?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="SEO" />
 </p>
-
-</div>
 
 ---
 
-## ⚡ About Me
+</div>
 
-<div align="left">
+## ⚡ About Me
 
 - 💼 **Full-Stack Web Developer** specializing in React, MERN, MEAN, and custom WordPress development.
 - 📈 **Digital Marketing & Technical SEO Specialist** focused on driving organic growth, CRO, and performance optimization.
 - 🚀 **Currently working on:** Scalable web applications and data-driven marketing solutions.
 - 🤝 **Open to:** Freelance projects, full-stack development roles, and growth strategy collaborations.
-
-</div>
 
 ---
 
@@ -46,21 +40,33 @@
 
 ## 🌟 Featured Projects
 
+<br/>
+
 ### 🏡 3D Room Renovation and Cost Estimation
-A hybrid web-3D application that allows users to design, customize, and visualize room interiors in real time using Unity and React.js, complete with automated real-time cost estimation.  
-👉 [View Repository](https://github.com/codewithaimii/1.-3D-Room-Renovation-and-cost-Estimation-)
+> A hybrid web-3D application that allows users to design, customize, and visualize room interiors in real time using Unity and React.js, complete with automated real-time cost estimation.  
+> 
+> 👉 **[View Repository](https://github.com/codewithaimii/1.-3D-Room-Renovation-and-cost-Estimation-)**
+
+<br/>
 
 ### 🏥 Student Attendance Management System
-A streamlined system designed for educational institutions to efficiently record, manage, and analyze student attendance data with intuitive reporting tools.  
-👉 [View Repository](https://github.com/codewithaimii/student-attendance-management-system)
+> A streamlined system designed for educational institutions to efficiently record, manage, and analyze student attendance data with intuitive reporting tools.  
+> 
+> 👉 **[View Repository](https://github.com/codewithaimii/student-attendance-management-system)**
+
+<br/>
 
 ### 🏦 Bank Management System
-An Object-Oriented C++ banking application utilizing Design Patterns (Singleton, Builder) and C++ Templates for account management, transactions, and secure data handling.  
-👉 [View Repository](https://github.com/codewithaimii/Bank-management-system)
+> An Object-Oriented C++ banking application utilizing Design Patterns (Singleton, Builder) and C++ Templates for account management, transactions, and secure data handling.  
+> 
+> 👉 **[View Repository](https://github.com/codewithaimii/Bank-management-system)**
+
+<br/>
 
 ### 💼 Personal Portfolio Website
-A responsive portfolio showcasing full-stack projects, certifications, and technical expertise. Built with optimized HTML, CSS, and JavaScript for maximum speed and performance.  
-👉 [View Repository](https://github.com/codewithaimii/Personal-portfolio-website)
+> A responsive portfolio showcasing full-stack projects, certifications, and technical expertise. Built with optimized HTML, CSS, and JavaScript for maximum speed and performance.  
+> 
+> 👉 **[View Repository](https://github.com/codewithaimii/Personal-portfolio-website)**
 
 ---
 
