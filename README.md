@@ -1,15 +1,19 @@
 <div align="center">
 
-<!-- Top Luxury Header Banner -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Aiman%20Sarwar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+<!-- Animated Header Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=👋+Hi+there%2C+I'm+Aiman+Sarwar;Full-Stack+Web+Developer;Digital+Marketing+Specialist" alt="Typing Header" />
 
-# 👋 Hi there, I'm Aiman Sarwar
+### **Full-Stack Web Developer & Digital Marketing Specialist**  
+*Bridging the gap between scalable code and data-driven marketing strategy.*
 
+<br/>
+
+<!-- Gold & Dark Luxury Badges -->
 <p align="center">
   <a href="https://github.com/codewithaimii">
-    <img src="https://img.shields.io/badge/DEVELOPER-FULL--STACK-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full-Stack Developer"/>
-    <img src="https://img.shields.io/badge/EXPERT-WORDPRESS%20%26%20PHP-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress Expert"/>
-    <img src="https://img.shields.io/badge/STRATEGY-SEO%20%26%20CRO-007ACC?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="SEO & CRO"/>
+    <img src="https://img.shields.io/badge/FULL--STACK%20DEV-REACT%20%7C%20MERN-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a1a" alt="Full Stack"/>
+    <img src="https://img.shields.io/badge/WORDPRESS-CUSTOM%20%26%20PHP-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=1a1a1a" alt="WordPress"/>
+    <img src="https://img.shields.io/badge/GROWTH-SEO%20%26%20CRO-007ACC?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=1a1a1a" alt="SEO"/>
   </a>
 </p>
 
@@ -68,6 +72,6 @@ A responsive portfolio showcasing full-stack projects, certifications, and techn
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=rect&color=0:1a1a1a,100:000000&height=4" width="100%" />
+*Always open to learning, collaborating, and building scalable web applications with high-impact digital strategies.*
 
 </div>
